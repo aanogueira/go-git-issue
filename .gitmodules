@@ -1,0 +1,3 @@
+[submodule "go-git"]
+	path = go-git
+	url = ../../go-git/go-git/.git
